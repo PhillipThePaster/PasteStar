@@ -2,7 +2,6 @@ A fork of the well known open source cheat [Aimstar](https://github.com/CowNowK/
 
 Currently WIP some features may not exist yet 
 * Such as
-- Visible Color pickers
-- Alot of cheat functionality 
+- Config system
 
 ![image](https://github.com/PhillipThePaster/PasteStar/assets/49299203/94faaceb-4c79-487a-b086-2b3712a718ab)
