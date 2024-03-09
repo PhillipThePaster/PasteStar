@@ -17,3 +17,9 @@ Tkazer -> Aenonix -> Aimstar -> Pastestar
 
 https://github.com/PhillipThePaster/PasteStar/assets/49299203/5fa78e44-61e1-4f8a-8e2e-20f1f180a822
 
+
+
+----------------------------------------
+- Another paste of Pastestar at this point i should just make a Retard wall
+
+![image](https://github.com/PhillipThePaster/PasteStar/assets/49299203/69a1b69d-bf6b-4685-8d32-1cb7e05d9d93)
